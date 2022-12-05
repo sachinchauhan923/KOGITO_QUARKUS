@@ -9,8 +9,8 @@ spec:
   #- name: MY_CUSTOM_ENV
   #  value: "my value"
   gitSource:
-    contextDir: kogito-quarkus-examples/process-business-rules-quarkus
-    uri: 'https://github.com/kiegroup/kogito-examples'
+    contextDir: 
+    uri: 'https://github.com/sachinchauhan923/KOGITO_QUARKUS'
   # set your maven nexus repository to speed up the build time
   #mavenMirrorURL:
 ---
